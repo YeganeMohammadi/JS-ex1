@@ -1,0 +1,77 @@
+body{
+    background-color: slategray !important;
+}
+#img-div{
+    height: 250px;
+    /* height: 300px; */
+    margin: 2px;
+
+}
+
+
+#P-bg img{
+    width: 100%;
+    margin: 5px 10px;
+
+}
+
+#P-element{
+    background-color: lightgrey;
+    border: 5px solid #212529;
+}
+
+#P-bg{
+
+    margin: 5px;
+    padding: 5px;
+}
+#P-bg h3{
+    padding: 5px;
+    text-align: center;
+    height: 100px;
+    overflow: hidden;
+}
+
+#P-container{
+    width: 100%;
+    align-items: center;
+    align-content: center;
+}
+
+#products-sec{
+    padding: 5px;
+    width: 100%;
+    margin: 0px;
+    align-content: center;
+    justify-content: center;
+}
+
+#P-bg p{
+    padding: 5px;
+    margin: 1px;
+    height: 200px;
+    overflow: hidden;
+}
+.priceBtn{
+    width: 100%;
+    display: block;   
+    text-align: center;
+    background-color:#dc3545;
+    border: none;
+    cursor: pointer;
+}
+
+input[type="range" i] {
+    appearance: auto;
+    cursor: default;
+    color: #dc3545 !important;
+    padding: initial;
+    border: initial;
+    margin: 2px;
+}
+
+#main-page img{
+    opacity: 50%;
+    width: 100%;
+}
+

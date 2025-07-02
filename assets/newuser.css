@@ -1,0 +1,31 @@
+
+body{
+    background-color: #212529 !important;
+}
+
+#users section{
+    font-family: sans-serif;
+    
+    background-color:darkgrey;
+    padding: 5px;
+    margin: 0px;
+}
+
+#users .col-md-4{
+    border:8px solid #212529;
+    text-align: center;
+    justify-items:center;
+}
+
+#Table{
+    border:1px solid #212529 !important;
+    align-self: center;
+}
+#Tbody tr td{
+    border:1px solid #212529 !important;
+    padding: 5px;
+}
+
+#users .col-md-4 span{
+    padding: 5px 50px;
+}
