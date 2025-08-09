@@ -1,13 +1,15 @@
 body{
     background-color: slategray !important;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+nav{
+    width: 100%;
 }
 #img-div{
     height: 250px;
-    /* height: 300px; */
     margin: 2px;
-
 }
-
 
 #P-bg img{
     width: 100%;
@@ -73,5 +75,8 @@ input[type="range" i] {
 #main-page img{
     opacity: 50%;
     width: 100%;
+}
+#main-page{
+    overflow-x: hidden;
 }
 
